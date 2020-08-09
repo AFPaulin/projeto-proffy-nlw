@@ -1,0 +1,10 @@
+1 - pagina de sucesso
+- Mpstrar página de sucesso após o cadastro do proffy
+- aguardar 2 segundos na pagina e redirecionar para a listagem dos proffys,
+com filtro
++ Use setTimeout para aguardar os 2 segundos
++ location.href = ""
+
+2 - correção de bugs
++ so pode adicionar outro horario se anterior estiver completo
++ botão para apagar um horario
