@@ -1,0 +1,6 @@
+Projeto:
+- Front-end - Css,Html
+- Back-end - JavaScript(Node.js)
+- Banco de dados (SQLite - depedencie do Visual Studio)
+- Servido Local (Npm - depedency do Visual Studio)
+OBS: Alem desses recursos/programas foi também usado um template engine chamado de nunjucks. 
